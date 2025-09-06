@@ -3,7 +3,7 @@
 A full-stack web application that scrapes book data from Books to Scrape website, stores it in a database, and presents it through a modern, responsive interface.
 
 ## 🎯 Features
-
+ 
 - **Automated Web Scraping**: Scrapes book data from all pages of Books to Scrape
 - **RESTful API**: Clean endpoints with pagination, filtering, and search
 - **Modern UI**: Responsive React frontend with smooth animations
