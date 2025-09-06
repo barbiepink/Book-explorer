@@ -236,28 +236,6 @@ cd backend && npm test
 cd frontend && npm test
 ```
 
-## 📝 License
-
-MIT License - feel free to use this project for your portfolio!
-
-## 👥 Contributing
-
-1. Fork the repository
-2. Create your feature branch
-3. Commit your changes
-4. Push to the branch
-5. Open a Pull Request
-
-## 🆘 Support
-
-For issues or questions, please create an issue in the GitHub repository.
-
-## 🎉 Acknowledgments
-
-- Books to Scrape for providing the practice scraping site
-- MongoDB Atlas for free database hosting
-- Vercel/Netlify for frontend hosting
-- Heroku/Render for backend hosting
 
 ---
 
